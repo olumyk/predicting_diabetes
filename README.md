@@ -1,13 +1,13 @@
 # Predicting Diabetes - Utilizing Data for Proactive Health Management
 
 ## Introduction
-This repository contains the code and resources for my project on diabetes prediction. This project provided valuable insights into the prediction of diabetes using machine learning techniques. The project was completed based on the steps provided in the LinkedIn Learning course "Hands-on Data Science and AI for Healthcare" by Wuraola Oyewusi. By following the outlined steps from this course, I gained a comprehensive understanding of building and evaluating predictive models for medical diagnosis. The project involved several steps including data loading, exploration, cleaning, analysis, model training, evaluation, and interpretation.
+This repository contains the code and resources for my project on diabetes prediction. This project provides valuable insights into the prediction of diabetes using machine learning techniques. The project involved several steps including data loading, exploration, cleaning, analysis, model training, evaluation, and interpretation.
 
 ## Dataset
 The dataset used in this project contains information related to diabetes, including various health indicators and patient data. 
 
 ## Project Steps
-1. **Data Loading and Exploration**: I loaded the dataset from the provided CSV file and performed an initial exploration to understand its structure and characteristics. The download link is also provided on the jupyter notebook
+1. **Data Loading and Exploration**: I downloaded the dataset and stored it as a .csv file. Next, I imported the dataset into a Jupyter notebook for initial exploration, aiming to grasp its structure and characteristics. Additionally, I included the download link and reference in the Jupyter notebook.
 
 2. **Data Cleaning**: After exploring the dataset, I cleaned the data by handling missing values, outliers, and other inconsistencies.
 
@@ -38,5 +38,5 @@ For any questions or further information, feel free to contact me.
 
 Thank you for visiting this repository!
 
-Yours,
+
 Mayokun Ajiboye
